@@ -1,0 +1,2 @@
+anticaptchaofficial
+opencv-python
